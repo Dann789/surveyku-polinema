@@ -10,3 +10,5 @@ Fitur-fitur yang terdapat di website ini terdiri dari:
 - Analitik, untuk melihat jumlah responden yang telah mengisi survey (admin)
 - Edit profil (admin dan user)
 - Isi survey (user)
+
+Note: Masih kurang responsif (masih mencoba dikembangkan).
